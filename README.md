@@ -30,3 +30,5 @@ A web-based resume analysis application designed to simulate Applicant Tracking 
 ## Deployment
 
 The application is publicly accessible and hosted on an AWS EC2 Linux server.
+
+Note: The project uses an Open AI API, which was saved in a .env file, this has been removed since the API uses a private key
